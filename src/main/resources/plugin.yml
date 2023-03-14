@@ -1,0 +1,4 @@
+name: Valodya
+version: '${project.version}'
+main: org.happyrogue36.authorization.Authorization
+api-version: 1.19
